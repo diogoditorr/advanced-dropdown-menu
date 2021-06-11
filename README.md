@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- Dropdown Tutorial with ReactJS
+
+- This project was made based on this [video](https://www.youtube.com/watch?v=IF6k0uZuypA) - **Channel:** [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+
 ## Available Scripts
 
 In the project directory, you can run:
